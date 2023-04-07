@@ -25,5 +25,7 @@ public class PlayerController : MonoBehaviour
         {
             player.velocity = new Vector2(player.velocity.x, Jumpspeed);
         }
+
+        
     }
 }
